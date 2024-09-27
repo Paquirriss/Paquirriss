@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" width="40" /> Sobre de mí:
 
-¡Hola! Soy Paco, un apasionado Data Engineer siempre en búsqueda de nuevos desafíos. Aquí un poco sobre mí:
+Soy Paco :)
 
 🎓 Licenciado en Tecnologías de la Información <br>
 🌟 Me gusta mucho la ingeniería de datos y los temas realcionados al área de BI. <br>
