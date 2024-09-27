@@ -9,8 +9,6 @@
 
 "Contigo, cada 'merge' es un éxito. 🖤"
 
-[![LinkedIn](https://a11ybadges.com/badge?logo=linkedin)](https://linkedin.com/in/franciscoa-ugalde) 
-
 # 💻 Habilidades:
 ![Python](https://a11ybadges.com/badge?logo=python)
 ![MySQL](https://a11ybadges.com/badge?logo=mysql)
