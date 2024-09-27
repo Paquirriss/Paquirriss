@@ -27,5 +27,4 @@
 
 
 # 📊 GitHub Stats:
-![paquirriss's Stats](https://github-readme-stats.vercel.app/api?username=paquirriss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![paquirriss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=paquirriss&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=paquirriss&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=paquirriss&theme=dark&hide_border=false)
