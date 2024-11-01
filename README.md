@@ -1,13 +1,11 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" width="40" />  Acerca de mí:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" width="40" /> Sobre de mí:
 
-<p align="center">Soy Paco :)</p>
+🎓 Licenciado en Tecnologías de la Información <br>
+🌟 Me gusta mucho la ingeniería de datos y los temas realcionados al área de BI. <br>
+💻 Aunque no me encanta igual que la ingeniería de datos, el desarrollo web es algo que también disfruto haciendo. <br>
+⚽️ Fan del fútbol y de jugar videojuegos.
 
-<p align="center">🎓 Licenciado en Tecnologías de la Información</p>
-<p align="center">🌟 Me gusta mucho la ingeniería de datos y los temas relacionados al área de BI.</p>
-<p align="center">💻 Aunque no me encanta igual que la ingeniería de datos, el desarrollo web es algo que también disfruto haciendo.</p>
-<p align="center">⚽️ Fan del fútbol y de jugar videojuegos.</p>
-
-<p align="center">"Contigo, cada 'merge' es un éxito. 🖤"</p>
+"Contigo, cada 'merge' es un éxito. 🖤"
 
 # 💻 Habilidades:
 ![Python](https://a11ybadges.com/badge?logo=python)
@@ -25,8 +23,6 @@
 ![Power BI](https://a11ybadges.com/badge?logo=powerbi)
 ![Django](https://a11ybadges.com/badge?logo=django)
 
+
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paquirriss&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&rank_icon=github" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paquirriss&theme=github_dark_dimmed&hide_border=false" />
-</p>
+![Paquirriss's Stats](https://github-readme-stats.vercel.app/api?username=Paquirriss&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&rank_icon=github) ![Paquirriss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paquirriss&theme=github_dark_dimmed&hide_border=false)
