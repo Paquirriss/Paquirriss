@@ -25,7 +25,7 @@
 ![Django](https://a11ybadges.com/badge?logo=django)
 
 # 📊 GitHub Stats:
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=Paquirriss&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="Paquirriss's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paquirriss&theme=github_dark_dimmed&hide_border=true" alt="Paquirriss's Streak" />
 </div>
