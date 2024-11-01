@@ -27,4 +27,9 @@ Soy Paco :)
 
 
 # 📊 GitHub Stats:
-![Paquirriss's Stats](https://github-readme-stats.vercel.app/api?username=Paquirriss&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&rank_icon=github&height="165") ![Paquirriss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paquirriss&theme=github_dark_dimmed&hide_border=false&height="165")
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Paquirriss&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&rank_icon=github" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paquirriss&theme=github_dark_dimmed&hide_border=false" width="400" />
+</div>
+
+
