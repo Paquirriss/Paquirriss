@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/zPepxrV.gif" width="900" height="300"> 
+  <img src="https://i.imgur.com/zPepxrV.gif" width="700" height="250"> 
 </p>
 
 <h1 align="center">
