@@ -9,8 +9,8 @@
 
 # 💻 Habilidades:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,html,css,js,mysql,git,github,docker,heroku,azure,vscode,notion" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,sqlserver,spark,azure,snowflake,docker,pandas,numpy,seaborn,matplotlib,git,github,django" />
   </a>
 </p>
 
