@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://i.imgur.com/zPepxrV.gif" width="800"> 
+</p>
+
+<h1 align="center">
+  👋😄 ¡Hola, soy Paco! 🙌🚀
+</h1>
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" width="40" /> Sobre mí:
 
 - 🎓 Licenciado en Tecnologías de la Información
@@ -6,14 +14,12 @@
 - ⚽️ Fan del fútbol y de jugar videojuegos.
 - **"Contigo, cada 'merge' es un éxito. 🖤"**
 
-
 # 💻 Habilidades:
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,sqlserver,spark,azure,snowflake,docker,pandas,numpy,seaborn,matplotlib,git,github,django" />
   </a>
 </p>
-
 
 # 📊 GitHub Stats:
 <div style="display: flex">
