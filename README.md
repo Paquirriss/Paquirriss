@@ -23,6 +23,6 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex">
-    <img src="https://github-readme-stats.vercel.app/api?username=Paquirriss&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&rank_icon=github" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paquirriss&theme=github_dark_dimmed&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Paquirriss&theme=dark&show_icons=true&hide_border=false&count_private=true&rank_icon=github" />
+    <img src="https://streak-stats.demolab.com/?user=Paquirriss&theme=dark" />
 </div>
