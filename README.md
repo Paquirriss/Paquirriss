@@ -8,11 +8,11 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" width="40" /> Sobre mí:
 
-* 🧑‍💻 Programador
-* ⚽ Futbolero
-* 📊 Interés por la data
-* 🐍 Mi lenguaje favorito: Python
-- **"Contigo, cada 'merge' es un éxito. 🖤"**
+* 🧑‍💻 **Programador**
+* ⚽ **Futbolero**
+* 📊 **Data lover** 
+* 💵 **App developer en Citibanamex**
+- **"No necesitas hacer un merge para estar en mi vida 🖤"**
 
 # 💻 Habilidades:
 <p align="center">
