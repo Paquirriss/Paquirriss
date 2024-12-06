@@ -12,7 +12,7 @@
 * ⚽ **Futbolero**
 * 📊 **Data lover** 
 * 💵 **App developer en Citibanamex**
-- **"No necesitas hacer un merge para estar en mi vida 🖤"**
+- **"Mi amor por ti no tiene rollbac 🖤"**
 
 # 💻 Habilidades:
 <p align="center">
