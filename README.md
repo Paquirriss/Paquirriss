@@ -12,7 +12,7 @@
 * ⚽ **Futbolero**
 * 📊 **Data lover** 
 * 💵 **App developer en Citibanamex**
-- **"Mi amor por ti no tiene rollback 🖤"**
+- **"Eres mi git pull de amor 🖤"**
 
 # 💻 Habilidades:
 <p align="center">
