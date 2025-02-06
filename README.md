@@ -23,5 +23,5 @@
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Paquirriss&theme=dark&_icons=true&hide_border=false&count_private=true&rank_icon=github)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paquirriss&theme=dark&_icons=true&hide_border=false&count_private=true&rank_icon=github)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paquirriss&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
